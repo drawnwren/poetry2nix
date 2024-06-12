@@ -645,6 +645,9 @@
   "aiosomecomfort": [
     "setuptools"
   ],
+  "aiosonic": [
+    "setuptools"
+  ],
   "aiosql": [
     "poetry-core",
     "setuptools",
